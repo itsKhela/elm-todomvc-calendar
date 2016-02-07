@@ -1,4 +1,4 @@
-# TodoMVC with calendar in Elm - [Try It!](http://melvm-test.tk/elm/todo.html)
+# TodoMVC with calendar in Elm 
 
 ## Project Structure
 
