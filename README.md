@@ -1,6 +1,4 @@
-# TodoMVC in Elm - [Try It!](http://evancz.github.io/elm-todomvc)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+# TodoMVC with calendar in Elm - [Try It!](http://melvm-test.tk/elm/todo.html)
 
 ## Project Structure
 
